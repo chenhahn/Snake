@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="410f7d25-e420-406f-b514-b09967135fb2" name="Default Changelist" comment="" />
+    <list default="true" id="410f7d25-e420-406f-b514-b09967135fb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Egg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Yard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Yard.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -17,7 +29,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WPMm4kCXLzJQiZ75acQXxT59bP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +39,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Yard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Yard" />
+      <module name="Snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Yard" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,6 +80,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1052" y="841" key="#com.intellij.ide.util.MemberChooser" timestamp="1579049213491">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1052" y="841" key="#com.intellij.ide.util.MemberChooser/62.0.2498.1440@62.0.2498.1440" timestamp="1579049213491" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1579049621888">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1579049621888" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1579049621888">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1579049621888" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1579049621887">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1579049621887" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1579049621888">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1579049621888" />
     <state x="778" y="517" key="com.intellij.ide.util.TipDialog" timestamp="1579046940274">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
