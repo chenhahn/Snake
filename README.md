@@ -1,2 +1,2 @@
 # Snake
-A basic snake game with java.
+A simple snake game with java.
