@@ -1,2 +1,2 @@
-# Snake
-A simple snake game with java.
+# Snake(java)
+A simple snake game.
